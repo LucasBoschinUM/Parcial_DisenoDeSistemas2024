@@ -1,0 +1,18 @@
+# Ignore archives of test coverage // Ignorar archivos de cobertura de pruebas
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+*.pyc
+__pycache__/
+
+# Ignore any SQLite database files // Ignorar cualquier archivo de base de datos SQLite
+*.sqlite3
+*.sqlite
+
+# Ignore virtual environments // Ignorar entornos virtuales
+.env/
+.venv/
+env/
+venv/
+ENV/
