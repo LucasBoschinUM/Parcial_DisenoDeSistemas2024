@@ -23,7 +23,7 @@ La aplicación estará disponible en:
 
 
 ### Paso 5: Consultar estadísticas (GET)
-Para obtener estadísticas de mutantes y no mutantes registrados en la base de datos, selecciona la solicitud GET en Postman. La URL para esta solicitud es: http://10.0.0.161:5000/
+Para obtener estadísticas de mutantes y no mutantes registrados en la base de datos, selecciona la solicitud GET en Postman. La URL para esta solicitud es: http://192.168.100.156:5000/
 
 
 🌐 Ejecutar en modo Docker y Hosting en Render
