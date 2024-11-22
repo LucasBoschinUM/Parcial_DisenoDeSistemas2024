@@ -34,4 +34,4 @@ POST para verificar mutantes:
 https://parcial-disenodesistemas2024.onrender.com/mutant/
 
 GET para consultar estadísticas:
-https://parcial-disenodesistemas2024.onrender.com/stats/
+https://parcial-disenodesistemas2024.onrender.com/stats
